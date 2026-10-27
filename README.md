@@ -1,6 +1,5 @@
 # Hi, I'm Praveen Chandru 👋
 
-🏆 **Smart India Hackathon (SIH) 2024 National Winner**
 
 Software Engineer focused on **AI Applications**, **Backend Engineering**, and **Scalable Systems**.
 
